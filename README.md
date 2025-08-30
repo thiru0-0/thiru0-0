@@ -48,6 +48,15 @@
 
 ###
 
+
+<h3 align="left">🛸 The Machine Behind the Code</h3>
+
+
+###
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M4-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+###
+
 <h3 align="left">🌱 Currently Exploring</h3>
 
 ###
